@@ -155,7 +155,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinLouisCyber&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinLouisCyber&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)<br/>
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 
